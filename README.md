@@ -11,3 +11,7 @@
 #KaLi
 [http://www.freebuf.com/sectool/104410.html](http://www.freebuf.com/sectool/104410.html)  
 
+
+#MSF漏洞攻击练习系统 – Metasploitable2
+[http://www.freebuf.com/sectool/18065.html](http://www.freebuf.com/sectool/18065.html)  
+[http://www.freebuf.com/articles/system/34571.html](http://www.freebuf.com/articles/system/34571.html)  

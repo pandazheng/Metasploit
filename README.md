@@ -19,3 +19,9 @@
 
 #Metasploit Android
 [技术分享：如何使用Metasploit对安卓手机进行控制](http://www.freebuf.com/articles/terminal/104407.html)  
+
+
+#破解Wifi
+[完全教程 Aircrack-ng破解WEP、WPA-PSK加密利器](http://netsecurity.51cto.com/art/201105/264844_all.htm)  
+[使用kali破解无线网](http://huirong.github.io/2015/03/11/wireless/)
+

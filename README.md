@@ -32,3 +32,4 @@
 #Web渗透
 [How to install DVWA in Kali linux](https://www.youtube.com/watch?v=HFjrSV6QNKA)  
 [Damn Vulnerable Web App installation](https://www.youtube.com/watch?v=GzIj07jt8rM)  
+[Windows下DVWA安装指南](http://webaq.lofter.com/post/37ddcc_1439af0)  

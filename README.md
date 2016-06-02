@@ -10,6 +10,7 @@
 
 #KaLi
 [http://www.freebuf.com/sectool/104410.html](http://www.freebuf.com/sectool/104410.html)  
+[Kali2 更新源](http://www.219.me/posts/3055.html)  
 
 
 #MSF漏洞攻击练习系统 – Metasploitable2

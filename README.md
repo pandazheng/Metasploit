@@ -25,3 +25,5 @@
 [完全教程 Aircrack-ng破解WEP、WPA-PSK加密利器](http://netsecurity.51cto.com/art/201105/264844_all.htm)  
 [使用kali破解无线网](http://huirong.github.io/2015/03/11/wireless/)
 
+#Burp Suite教程
+[用Burpsuite破解网站密码](http://jingyan.baidu.com/album/200957619c8739cb0721b4ff.html?picindex=23)

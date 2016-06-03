@@ -39,4 +39,5 @@
 [某印度阿三的视频教程](http://www.pentesteracademy.com/topics?utm_source=HT&utm_medium=twitter&utm_campaign=DSM)  
 
 #Linux Forensics
-[Linux Forensics Book Videos](http://linuxforensicsbook.com/images.html)  
+[Linux Forensics Book Videos](https://www.youtube.com/watch?v=Q-Jxz5xZn0A&list=PLzKIBgD3ky23IvVGNllQ9PaTMHU2_nef8&index=1)  
+

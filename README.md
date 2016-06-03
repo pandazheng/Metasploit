@@ -38,3 +38,5 @@
 #视频教程
 [某印度阿三的视频教程](http://www.pentesteracademy.com/topics?utm_source=HT&utm_medium=twitter&utm_campaign=DSM)  
 
+#Linux Forensics
+[Linux Forensics Book Videos](http://linuxforensicsbook.com/images.html)  
